@@ -258,8 +258,8 @@ a {
 }
 
 .bar-status1 {
-    border-color: #73732E;
-    background-color: #73732E;
+    border-color: #ffffff;
+    background-color: #ffffff;
     background-image: none;
     color: #fff;
 }
@@ -329,9 +329,15 @@ a {
 .bar .title,
 .bar .button
 {
-    color: #ffffff;
+    color: #00263e;
+    font-family: "ltc-squareface",serif;
 }
 
+/*
+YETI COLOR
+#006080
+
+*/
 .status-bar {
     clear: both;
     display: -webkit-flex;
