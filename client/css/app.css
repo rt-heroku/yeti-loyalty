@@ -331,6 +331,8 @@ a {
 {
     color: #00263e;
     font-family: "ltc-squareface",serif;
+    font-weight: bold;
+    font-size: x-large;
 }
 
 /*
@@ -508,7 +510,8 @@ YETI COLOR
 
 .menu,
 .menu .item-content {
-    background-color: #69625A;
+    background-color: #00263e;
+    font-family: "ltc-squareface",serif;
 }
 
 .menu .item-content {
