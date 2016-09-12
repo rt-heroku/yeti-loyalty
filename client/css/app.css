@@ -348,7 +348,7 @@ a {
 }
 
 .status-bar>div {
-    border-top: solid 2px #666666;
+    border-top: solid 2px #ffffff;
     -webkit-flex-grow:1;
     flex-grow: 1;
     margin: 4px;
