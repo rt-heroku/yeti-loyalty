@@ -363,8 +363,8 @@ YETI COLOR
 }
 
 .status-bar>div:nth-of-type(1) {
-    border-top: solid 2px #73732E;
-    color: #73732E !important;
+    border-top: solid 2px #0283d4;
+    color: #0283d4 !important;
 }
 
 .status-bar>div:nth-of-type(2) {
@@ -395,27 +395,27 @@ YETI COLOR
 }
 
 .status1-bg {
-    background: #73732E;
+    background: #0283d4;
 }
 
 .status2-bg {
-    background: #A87E21;
+    background: #006080;
 }
 
 .status3-bg {
-    background: #802E13;
+    background: #00263e;
 }
 
 .status1 {
-    color: #73732E;
+    color: #0283d4;
 }
 
 .status2 {
-    color: #A87E21;
+    color: #006080;
 }
 
 .status3 {
-    color: #802E13;
+    color: #00263e;
 }
 
 .icon-status1 {
