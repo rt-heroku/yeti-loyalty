@@ -368,14 +368,14 @@ YETI COLOR
 }
 
 .status-bar>div:nth-of-type(2) {
-    border-top: solid 2px #A87E21;
-    color: #A87E21 !important;
+    border-top: solid 2px #006080;
+    color: #006080 !important;
     text-align: center;
 }
 
 .status-bar>div:nth-of-type(3) {
-    border-top: solid 2px #802E13;
-    color: #802E13 !important;
+    border-top: solid 2px #00263e;
+    color: #00263e !important;
     text-align: right;
 }
 
